@@ -1,0 +1,16 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.product
+{
+    text-align: center;
+    color: rgb(85, 21, 21);
+    background-color: rgb(201, 164, 164);
+}
+img
+{
+    width: 300px;
+    margin :  20px 550px;
+}
